@@ -1,0 +1,12 @@
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\bin\Debug\net8.0\misemoApi.Contracts.deps.json
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\bin\Debug\net8.0\misemoApi.Contracts.dll
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\bin\Debug\net8.0\misemoApi.Contracts.pdb
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\misemoApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\misemoApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\misemoApi.Contracts.AssemblyInfo.cs
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\misemoApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\misemoApi.Contracts.sourcelink.json
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\misemoApi.Contracts.dll
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\refint\misemoApi.Contracts.dll
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\misemoApi.Contracts.pdb
+C:\Users\reyha\Misemohubu\misemoApi\misemoApi.Contracts\obj\Debug\net8.0\ref\misemoApi.Contracts.dll

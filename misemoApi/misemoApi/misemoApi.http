@@ -1,0 +1,6 @@
+@misemoApi_HostAddress = http://localhost:5168
+
+GET {{misemoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

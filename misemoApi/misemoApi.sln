@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "misemoApi.Contracts", "misemoApi.Contracts\misemoApi.Contracts.csproj", "{579E2093-EEE8-4645-88FA-3E1CA9F2ED7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "misemoApi", "misemoApi\misemoApi.csproj", "{0FC31C4C-A930-4348-A594-C5A36D08CA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579E2093-EEE8-4645-88FA-3E1CA9F2ED7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579E2093-EEE8-4645-88FA-3E1CA9F2ED7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579E2093-EEE8-4645-88FA-3E1CA9F2ED7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579E2093-EEE8-4645-88FA-3E1CA9F2ED7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC31C4C-A930-4348-A594-C5A36D08CA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC31C4C-A930-4348-A594-C5A36D08CA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC31C4C-A930-4348-A594-C5A36D08CA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC31C4C-A930-4348-A594-C5A36D08CA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
